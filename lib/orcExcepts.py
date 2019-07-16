@@ -1,0 +1,3 @@
+
+class NotImageError(Exception):
+    pass
